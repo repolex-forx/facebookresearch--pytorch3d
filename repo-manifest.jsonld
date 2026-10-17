@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/facebookresearch/pytorch3d/commit/88e182f989c80836f4bd744e0d9cb1852762ce01",
       "git:hexsha": "88e182f989c80836f4bd744e0d9cb1852762ce01",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/facebookresearch/pytorch3d/commit/75ebeeaea0908c5527e7b1e305fbc7681382db47",
