@@ -1,0 +1,11 @@
+{
+  "org": "facebookresearch",
+  "repo": "pytorch3d",
+  "versions": [
+    {
+      "commit": "88e182f989c80836f4bd744e0d9cb1852762ce01",
+      "tag": "",
+      "parsed_at": "2026-10-17T18:49:16.910798+00:00"
+    }
+  ]
+}
